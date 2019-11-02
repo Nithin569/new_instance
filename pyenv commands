@@ -1,0 +1,10 @@
+pyenv local
+pyenv global
+pyenv shell
+pyenv install
+pyenv uninstall
+pyenv rehash
+pyenv version
+pyenv versions
+pyenv which
+pyenv whence
